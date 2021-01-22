@@ -18,7 +18,7 @@ To change the input that is fed to the program, go to recursive-descent-parser/s
 
 2. Use an IDE to open the project (recommended IDE is IntelliJ - where this was originally coded). Alternatively, open your cmd terminal and go to the directory where the project is located.
 
-3. Compile and Run the program through the IDE command (shortcut for IntelliJ is Shift+F10), or if you are using a cmd terminal, first compile the program by using the command: 'javac Parser.java', and afterwards run the program by using the command: 'java Parser'
+3. Compile and Run the program through the IDE command (shortcut for IntelliJ is Shift+F10), or if you are using a cmd terminal, first compile the program by using the command: 'javac Main.java', and afterwards run the program by using the command: 'java Main'
 
 4. You should be able to see the printed results in the output.txt found in the repository. 
 
