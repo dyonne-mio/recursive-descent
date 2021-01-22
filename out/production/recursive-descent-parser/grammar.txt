@@ -1,0 +1,6 @@
+S: E;
+E: F T;
+T: P | M | ε;
+F: OPENP E CLOSEP | OPENB E CLOSEB | DIGIT T;
+P: ADD E;
+M: MULT E;
